@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "init :baby:"
+git branch -M master
+git remote add origin https://github.com/VincentGuyader/exemple.param.git
+git push -u origin master

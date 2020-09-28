@@ -1,0 +1,24 @@
+{
+    "id": "9A438ED0",
+    "path": "C:/sur_git/exemple.param/R/app_server.R",
+    "project_path": "R/app_server.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1600849026037.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "cursorPosition": "11,2",
+        "scrollLine": "4"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1600850112,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1600850112428,
+    "read_only": false,
+    "read_only_alternatives": []
+}

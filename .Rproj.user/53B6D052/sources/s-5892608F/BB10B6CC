@@ -1,0 +1,24 @@
+{
+    "id": "BB10B6CC",
+    "path": "C:/sur_git/exemple.param/dev/run_dev.R",
+    "project_path": "dev/run_dev.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1600848961758.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "cursorPosition": "11,26",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1600849970,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1600849970174,
+    "read_only": false,
+    "read_only_alternatives": []
+}
